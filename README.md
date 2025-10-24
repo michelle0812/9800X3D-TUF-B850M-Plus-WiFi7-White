@@ -28,3 +28,9 @@
     <td>系統</td><td>macOS Sequoia 15.7.1 + OpenCore 1.0.6</td>
   </tr>  
 </table>
+
+<img width="450" src="https://github.com/user-attachments/assets/8414ef67-be66-43a0-b60a-17b7498fc870">
+<img width="450" src="https://github.com/user-attachments/assets/14fee987-5e55-433a-9b14-cdd5d3adb43b"><br>
+
+
+
