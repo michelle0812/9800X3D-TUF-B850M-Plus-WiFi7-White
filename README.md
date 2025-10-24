@@ -10,7 +10,7 @@
     <td>BIOS</td><td>?</td>
   </tr>
   <tr>  
-    <td>記憶體</td><td>DDR5-6400 16GB*2</td>
+    <td>記憶體</td><td>DDR5-6000 16GB*2</td>
   </tr>
   <tr>
     <td>dGPU</td><td>MSI RX 6600 XT 8GB</td>
