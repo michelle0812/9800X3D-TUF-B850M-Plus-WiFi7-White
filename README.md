@@ -7,7 +7,7 @@
     <td>主機板</td><td>ASUS TUF GAMING B850M-Plus WiFi7 White</td>
   </tr>
   <tr>
-    <td>BIOS</td><td>v.1087版本 1087 15.44 MB 2025/09/30 </td>
+    <td>BIOS</td><td>版本 1087 15.44 MB 2025/09/30 </td>
   </tr>
   <tr>  
     <td>記憶體</td><td>DDR5-6000 16GB*2</td>
