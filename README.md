@@ -29,8 +29,7 @@
   </tr>  
 </table>
 
-<img width="450" src="https://github.com/user-attachments/assets/8414ef67-be66-43a0-b60a-17b7498fc870">
-<img width="450" src="https://github.com/user-attachments/assets/14fee987-5e55-433a-9b14-cdd5d3adb43b"><br>
+<img width="450" src="https://github.com/user-attachments/assets/a9e63011-7fcb-4717-8378-d9cccfe9447a"> <br>
 
 
 <img width="450" alt="截圖 2026-01-24 晚上8 28 52" src="https://github.com/user-attachments/assets/29140548-7a8a-4cf5-8eab-39bf43324a34" />
