@@ -25,7 +25,7 @@
     <td>內建網卡</td><td>RTL8125"D"</td>
   </tr>  
   <tr>
-    <td>系統</td><td>macOS Sequoia 15.7.1 + OpenCore 1.0.6</td>
+    <td>系統</td><td>macOS Tahoe 26.2+ OpenCore 1.0.7</td>
   </tr>  
 </table>
 
