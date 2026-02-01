@@ -33,4 +33,8 @@
 <img width="450" src="https://github.com/user-attachments/assets/14fee987-5e55-433a-9b14-cdd5d3adb43b"><br>
 
 
+<img width="450" alt="截圖 2026-01-24 晚上8 28 52" src="https://github.com/user-attachments/assets/29140548-7a8a-4cf5-8eab-39bf43324a34" />
+<img width="450" alt="截圖 2026-01-24 晚上8 29 02" src="https://github.com/user-attachments/assets/43fc235e-abbe-4418-89aa-853a48ef3a27" /><br>
+<img width="450" alt="截圖 2026-01-24 晚上8 29 24" src="https://github.com/user-attachments/assets/c9e8161b-fe3f-4177-979a-96901144814d" />
+<img width="450" alt="截圖 2026-01-24 晚上8 29 14" src="https://github.com/user-attachments/assets/ccf75d8f-dd58-45f0-8b9f-48e723c115db" /><br>
 
