@@ -30,7 +30,7 @@
 </table>
 
 <img width="450" src="https://github.com/user-attachments/assets/a9e63011-7fcb-4717-8378-d9cccfe9447a"> <br>
-
+<img width="450" src="https://github.com/user-attachments/assets/96bb47c8-1a63-4b0b-ac61-7d38d7545bfc"> <br>
 
 <img width="450" alt="截圖 2026-01-24 晚上8 28 52" src="https://github.com/user-attachments/assets/29140548-7a8a-4cf5-8eab-39bf43324a34" />
 <img width="450" alt="截圖 2026-01-24 晚上8 29 02" src="https://github.com/user-attachments/assets/43fc235e-abbe-4418-89aa-853a48ef3a27" /><br>
